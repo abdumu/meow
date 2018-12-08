@@ -1,0 +1,4 @@
+#!/bin/meow
+
+
+meow "hello kittens";
